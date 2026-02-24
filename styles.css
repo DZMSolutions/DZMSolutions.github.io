@@ -4,6 +4,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.centery {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .site-content {
     padding-left: 2em;
     padding-right: 2em;
